@@ -1,1 +1,1 @@
-include ':app', ':module_mvp', ':module_mvc', ':module_mvvm', ':module_xposed', ':module_dagger', ':module_hook', ':module_jsbridge', ':module_webtoapp', ':module_ndk', ':moduel_ffmpeg'
+include ':app', ':module_mvp', ':module_mvc', ':module_mvvm', ':module_xposed', ':module_dagger', ':module_hook', ':module_jsbridge', ':module_webtoapp', ':moduel_ffmpeg', ':module_annotation', ':module_reflection'
